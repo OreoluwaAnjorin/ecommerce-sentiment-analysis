@@ -6,13 +6,13 @@
 
 > Machine learning sentiment classifier for e-commerce reviews using J48 decision tree algorithm. Automated web scraping, text preprocessing, and WEKA implementation achieving **95.9% training accuracy**.
 
-## 🎯 Overview
+##  Overview
 
 End-to-end sentiment analysis pipeline that scrapes customer reviews from Jumia Nigeria and classifies them as positive or negative using J48 decision tree in WEKA.
 
 **Key Results**: 95.9% training accuracy | 87.0% test accuracy | 1,100+ reviews processed
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ecommerce-sentiment-analysis/
@@ -30,7 +30,7 @@ ecommerce-sentiment-analysis/
 └── 📄 SENTIMENT ANALYSIS PROJECT REPORT.pdf  # Complete analysis report
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.x
@@ -67,7 +67,7 @@ ecommerce-sentiment-analysis/
 | **Algorithm** | J48 Decision Tree |
 | **Data Format** | ARFF |
 
-## 📊 Key Results
+##  Key Results
 
 - **Training Accuracy**: 95.9% (959/1,000 reviews)
 - **Test Accuracy**: 87.0% (87/100 reviews) 
@@ -76,18 +76,18 @@ ecommerce-sentiment-analysis/
 
 *For detailed methodology, performance metrics, and analysis, see [summary.md](summary.md) and the project report.*
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create feature branch: `git checkout -b feature/new-feature`
 3. Commit changes: `git commit -m 'Add new feature'`
 4. Push and create Pull Request
 
-## 📄 License
+##  License
 
 MIT License - see [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+##  Author
 
 **Oreoluwa Anjorin**
 - 📧 [anjorinoreoluwa19@gmail.com](mailto:anjorinoreoluwa19@gmail.com)
